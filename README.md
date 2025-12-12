@@ -22,6 +22,8 @@
 
 <img src = "img/answer_haproxy.png" width = 100%>
 
+<img src = "img/stats.png" width = 100%>
+
 ### Задание 2
 
 
@@ -32,3 +34,13 @@
 
 
 ### Решение 2
+
+<img src = "img/http3.png" width = 100%>
+
+<img src = "img/example.png" width = 100%>
+
+<img src = "img/answerss.png" width = 100%>
+
+<img src = "img/config.png" width = 100%>
+
+<img src = "img/stats2.png" width = 100%>
