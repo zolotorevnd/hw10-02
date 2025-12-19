@@ -12,7 +12,7 @@
 
 <img src = "img/answer_haproxy.png" width = 100%>
 
-- [config](./hw10-02/config/haproxy2.cfg)
+- [haproxy2.cfg](./config/haproxy2.cfg)
 
 ### Задание 2
 
@@ -27,4 +27,4 @@
 
 <img src = "img/answer3.png" width = 100%>
 
-- [config](./hw10-02/config/haproxy.cfg)
+- [config](./config/haproxy.cfg)
