@@ -10,19 +10,9 @@
 
 ### Решение 1
 
-<img src = "img/http1.png" width = 100%>
-
-<img src = "img/http2.png" width = 100%>
-
-<img src = "img/answer_servers.png" width = 100%>
-
-<img src = "img/haproxy_install.png" width = 100%>
-
-<img src = "img/haproxy_cfg.png" width = 100%>
-
 <img src = "img/answer_haproxy.png" width = 100%>
 
-<img src = "img/stats.png" width = 100%>
+- [config](./hw10-02/config/haproxy2.cfg)
 
 ### Задание 2
 
@@ -35,12 +25,6 @@
 
 ### Решение 2
 
-<img src = "img/http3.png" width = 100%>
+<img src = "img/answer3.png" width = 100%>
 
-<img src = "img/example.png" width = 100%>
-
-<img src = "img/answerss.png" width = 100%>
-
-<img src = "img/config.png" width = 100%>
-
-<img src = "img/stats2.png" width = 100%>
+- [config](./hw10-02/config/haproxy.cfg)
