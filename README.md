@@ -25,6 +25,6 @@
 
 ### Решение 2
 
-<img src = "img/answer3.png" width = 100%>
+<img src = "img/anwer3.png" width = 100%>
 
 - [config](./config/haproxy.cfg)
